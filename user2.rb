@@ -7,7 +7,7 @@ class User
   end
 end
 
-user = User.new("ushijima","kyoto",nil)
+user = User.newls("ushijima","kyoto",nil)
 p user.name
 
 # user = User.new
